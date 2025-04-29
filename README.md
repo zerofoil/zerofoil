@@ -1,5 +1,1 @@
-# What do i put here?
-
----
-
-Huh?
+## Hello! Im Zero.
